@@ -1,0 +1,12 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "Node.js Puppeteer scraper with Python Flask hosting",
+  "main": "scrape.js",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^24.0.0"
+  }
+}
